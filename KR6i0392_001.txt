@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:17:56.439259
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:22
 #+TITLE: 溫室經義記
 #+PROPERTY: CBETA_ID T39n1793
 #+PROPERTY: ID KR6i0392
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 39, No. 1793
 #+PROPERTY: VOL 39
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0392_T_000-0512c>¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0392_T_001-0512c> ¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.1793[cf.No.701]¶
-
- 溫室經義記¶
+No. 1793 [cf. No. 701]¶
+溫室經義記¶
 ¶
 沙門釋慧遠撰¶
 
@@ -168,7 +167,7 @@ No.1793[cf.No.701]¶
 一心聽法。吾當為汝先說澡浴眾僧及報之¶
 福。佛告耆域。澡浴之法。當用七物。除去七¶
 病。得七福報。何謂七物。一者然火。二者淨¶
-水。三者澡豆。四者酥膏。五者淳灰。六者楊¶
+水。三者澡豆。四者酥膏。五者淳灰。六者揚¶
 枝。七者內衣。此是澡浴之法。何謂除七病。¶
 一者四大安隱。二者除風病。三者除濕痺。四¶
 者除寒氷。五者除熱氣。六者除垢穢。七者身¶
@@ -325,9 +324,9 @@ No.1793[cf.No.701]¶
 　眾僧之聖尊
 　四道良福田¶
 　道德從中出
-　是行最妙真
+　是行最妙真」
 #+END_VERSE
-」¶
+¶
 
 以義入偈。要略易解。故下頌之。有何易解。向¶
 前文中。七福之外別說人等。人謂定別。故今
